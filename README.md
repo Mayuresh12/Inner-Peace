@@ -1,2 +1,2 @@
 # Inner-Peace
-Show motivational qoutes
+Show motivational qoutes.
